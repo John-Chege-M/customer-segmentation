@@ -7,7 +7,7 @@ st.header("Clustering Customers Using Machine Learning")
 st.write()
 st.write('Want to know which cluster a customer belong to?')
 st.write()
-st.write('Lets get to work')
+st.write('Lets get to work :punch:')
 
 p1 = st.number_input('Enter your annual income (0-137 k$)', 0,137)
 p2 = st.number_input('Enter your spending score (1-100)', 0,100)
