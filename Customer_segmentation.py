@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
 
-model = joblib.load("d:\MACHINE LEARNING PROJECTS\customer segmentation\Customer_Segmentation.pkl")
+model = joblib.load("Customer_Segmentation.pkl")
 
 st.header("Clustering Customers Using Machine Learning")
 st.write()
